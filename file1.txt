@@ -1,3 +1,7 @@
 This is the file 1 from remote repo
 
 This is the file 1 changed from local repo
+
+commit 1 from teammate1
+
+commit 2 from teammate2
